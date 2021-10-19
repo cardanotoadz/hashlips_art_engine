@@ -111,7 +111,7 @@ If you want to play around with different blending modes, you can add a `blend: 
 
 If you need a layers to have a different opacity then you can add the `opacity: 0.7` field to the layersOrder `options` object as well.
 
-To use a different metadata attribute name you can add the `displayName: "Awesome Eye Color"` to the `options` object. All options are optional and can be addes on the same layer if you want to.
+To use a different metadata attribute name you can add the `displayName: "Awesome Eye Color"` to the `options` object. All options are optional and can be added on the same layer if you want to.
 
 Here is an example on how you can play around with both filter fields:
 
